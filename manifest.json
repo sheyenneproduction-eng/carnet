@@ -1,0 +1,11 @@
+{
+  "name": "Carnet",
+  "short_name": "Carnet",
+  "lang": "fr",
+  "start_url": "/carnet/",
+  "scope": "/carnet/",
+  "display": "standalone",
+  "background_color": "#f7f5f0",
+  "theme_color": "#f7f5f0",
+  "icons": [{ "src": "/carnet/icon-512.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" }]
+}
